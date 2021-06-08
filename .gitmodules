@@ -1,3 +1,6 @@
 [submodule "demo-sqlite"]
 	path = demo-sqlite
 	url = https://github.com/Ahacad/demo-sqlite
+[submodule "demo-shell"]
+	path = demo-shell
+	url = https://github.com/Ahacad/demo-shell
