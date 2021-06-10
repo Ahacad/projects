@@ -4,3 +4,6 @@
 [submodule "demo-shell"]
 	path = demo-shell
 	url = https://github.com/Ahacad/demo-shell
+[submodule "demo-tcp"]
+	path = demo-tcp
+	url = https://github.com/Ahacad/demo-tcp
