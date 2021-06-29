@@ -10,3 +10,6 @@
 [submodule "demo-bplustree"]
 	path = demo-bplustree
 	url = https://github.com/Ahacad/demo-bplustree
+[submodule "demo-shell-rs"]
+	path = demo-shell-rs
+	url = https://github.com/Ahacad/demo-shell-rs
