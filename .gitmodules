@@ -13,3 +13,6 @@
 [submodule "demo-shell-rs"]
 	path = demo-shell-rs
 	url = https://github.com/Ahacad/demo-shell-rs
+[submodule "demo-compiler"]
+	path = demo-compiler
+	url = https://github.com/Ahacad/demo-compiler
